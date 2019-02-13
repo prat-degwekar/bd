@@ -25,6 +25,7 @@ parts/
 sdist/
 var/
 wheels/
+pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
@@ -122,5 +123,4 @@ dmypy.json
 ### Python Patch ###
 .venv/
 
-*.out
 # End of https://www.gitignore.io/api/python

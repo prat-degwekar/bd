@@ -8,9 +8,9 @@
 
    3. [x] Partitioning
 
-2. [ ] Implement (or use)
+2. [x] Implement (or use)
 
-   1. [ ] Pincer Search
+   1. [x] Pincer Search
 
    2. [x] A-CLOSE
 

@@ -1,0 +1,12 @@
+Contact:
+Manuel Calimlim - calimlim@cs.cornell.edu
+Johannes Gehrke - johannes@cs.cornell.edu
+
+=====================================================================
+
+README instructions moved to HTML help pages:
+
+1) cd docs
+2a) (Linux) tar zxvf html.tar.gz
+2b) (Windows) Use Winzip to decompress the archive.
+3) Open html/index.html in your favorite web browser.
